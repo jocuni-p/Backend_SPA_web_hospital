@@ -1,6 +1,6 @@
 # Aplicación web SPA (Single Page Application) desarrollada con Laravel para la gestión de pacientes de un hospital
 
-Este proyecto esta especialmente enfocado al desarrollo del backend de la aplicación, por esta razón el frontend es muy simple y no esta trabajado a nivel de diseño. 
+Este proyecto está especialmente enfocado al desarrollo del backend de la aplicación, por esta razón el frontend es muy simple, no está trabajado a nivel de diseño y solo persigue poder desplegar el backend.
 El proyecto permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre la base de datos de pacientes de forma dinámica en una única página.
 
 ## Descripción del Proyecto
